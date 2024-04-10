@@ -1,5 +1,12 @@
 # Change History
 
+## April 10 2024: v7.2.1
+
+This release updates the dependencies to mitigate security issues.
+
+- **Fixes**
+  - [CLIENT-2869] Update modules. Fix Allocation of Resources Without Limits or Throttling for `golang.org/x/net/http2`.
+
 ## March 28 2024: v7.2.0
 
 This is a major update. Please test your code thoroughly before using in production.
