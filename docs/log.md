@@ -1,4 +1,4 @@
-#log
+# log
 
 Various log levels available to log from the Aerospike API.
 Default is set to OFF.
@@ -11,7 +11,7 @@ Default is set to OFF.
 
 You can set the Logger to any object that supports log.Logger interface.
 
-## Log levels:
+## Supported Log levels:
 
 ##### ERROR
 
